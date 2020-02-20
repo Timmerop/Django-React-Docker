@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a3a2ea5-60b8-40d0-bedb-e22638205500" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/frontend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DockerExecCommand">
+    <ExecCommand>
+      <option name="command" value="bash" />
+      <option name="imageId" value="sha256:0bfff64f5c7a7a07f71b38157b745ef0b8449a9029c8f3baef9d0ee91a851f27" />
+    </ExecCommand>
+    <ExecCommand>
+      <option name="command" value="bash" />
+      <option name="imageId" value="sha256:63554a1c52d4a6adead043f650df189dbe84ee74f4f9f857e445ae05a98c05d7" />
+    </ExecCommand>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+        <option value="package.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend" />
+  </component>
+  <component name="ProjectId" id="1Xga0TWrCygkwcdlG7YKBGcvlWL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowREST Client.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/api_blog" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/frontend" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/backend" />
+      <recent name="$PROJECT_DIR$/src/blog" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/api_blog" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/quickstart" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a3a2ea5-60b8-40d0-bedb-e22638205500" name="Default Changelist" comment="" />
+      <created>1581469967317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581469967317</updated>
+      <workItem from="1581469969593" duration="48666000" />
+      <workItem from="1582158103342" duration="105000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="205" key="#Docker" timestamp="1581470034444">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="205" key="#Docker/-1280.0.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1581470034444" />
+    <state x="677" y="193" key="#Docker_Image" timestamp="1581471091944">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="677" y="193" key="#Docker_Image/-1280.0.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1581471091944" />
+    <state x="688" y="140" key="#Dockerfile" timestamp="1581470145234">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="688" y="140" key="#Dockerfile/-1280.0.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1581470145234" />
+    <state x="560" y="205" key="#Path_mapping" timestamp="1581470032631">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="205" key="#Path_mapping/-1280.0.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1581470032631" />
+    <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581472830534">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1280.0.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1581472830534" />
+    <state x="715" y="312" key="EnvironmentVariablesDialog" timestamp="1581470379995">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="715" y="312" key="EnvironmentVariablesDialog/-1280.0.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1581470379995" />
+    <state width="219" height="457" key="HiddenNamespacesPopup" timestamp="1581495826975">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="219" height="457" key="HiddenNamespacesPopup/-1280.0.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1581495826975" />
+    <state x="224" y="89" key="SettingsEditor" timestamp="1581929627402">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="224" y="89" key="SettingsEditor/-1280.0.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1581929627402" />
+    <state x="224" y="89" key="SettingsEditor/-1280.23.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1581473197983" />
+  </component>
+</project>
